@@ -5,7 +5,7 @@ clear
 
 %% Enter the file name  always change from here
 %  main
-Input = 'KNNClassifier_Test';
+Input = 'Test';
 
 generateHeader(Input);
 
