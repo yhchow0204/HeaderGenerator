@@ -16,10 +16,11 @@ This app interface allows you to generate a standardized header for MATLAB files
 # Script version: GenerateHeader.m
 
 This script works totally same as the one in GUI version.
+![image](https://github.com/user-attachments/assets/2ba30230-d737-47c3-927c-9cd8644c6cf0)
 
-![image](https://github.com/user-attachments/assets/8cd74768-d3d3-4fbd-bc50-e71532480083)
 
 User need to modify the Input in line 8 to your desired file name and output will show in command window.
-_remember to write your desired name with apostrophes_
+
+_Remember to write your desired name with apostrophes_
 
 
