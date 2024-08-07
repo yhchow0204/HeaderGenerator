@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/40ac95ce-7e2c-4610-bfe8-7f99cbb51aea)# HeaderGenerator
+# HeaderGenerator
 This MATLAB script generates a standardized header for files, including the file name, programmer's name, date, and MATLAB version. It comes in two versions: a GUI version for direct integration into MATLAB files and an M-file version.
 
 ## Important Note: Choose either one to download or save both of the file in different name to avoid error
